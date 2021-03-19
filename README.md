@@ -71,8 +71,11 @@ $ git clone https://github.com/PauloFRPDev/ignite-watch-me.git && cd ignite-watc
 # Install the dependencies
 $ yarn or npm run
 
+# Run the fake API
+$ yarn server
+
 # Start the client
-$ yarn start or npm run start
+$ yarn dev or npm run dev
 ```
 
 ## 🤔 How to contribute
